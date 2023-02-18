@@ -1,0 +1,179 @@
+@media (max-width:1406px){
+    .nav-top .left-content{
+        width: 60%;
+    }
+    
+}
+@media (max-width:1147px){
+    .register .container{
+        width: 88% !important;
+    }
+    
+}
+
+@media (max-width:991px) {
+    nav .container{
+        width: 100% !important;
+    }
+    .nav-top .left-content span, .nav-top .left-content a{
+        display: none;
+    }
+    .nav-top .left-content{
+        width: 20%;
+    }
+    /* header */
+    .header{
+        height: auto;
+    }
+     .main-head{
+        font-size: 45px;
+    }
+    .header .info{
+        position: unset;
+        padding-top: 3rem;
+    }
+    .header .info .col-lg-4{
+        width: 49%;
+    }
+    /* popular courses  */
+    .btn-cart{
+        left: 29%;
+    }
+    /* register */
+    .timer{
+        padding: 30px 0;
+    }
+    .news-info p {
+        left: 18%;
+    }
+    .testimonials .owl-item.active.center::after{
+        top: -17px;
+        right: 77px;
+    }
+   .register .right-content .pb-5{
+    width: 100%;
+   }
+   .register-page .w-50{
+    width: 60% !important;
+   }
+
+}
+@media (max-width:767px) {
+    .container{
+        width: 100% !important;
+    }
+    .header .info .col-lg-4{
+        width: 100%;
+    }   
+    .first .carousel-caption{ 
+        top:14%;
+        margin-left: 8px;
+      }
+      .carousel-caption h1{
+        font-size: 15px;
+      }
+      .main-head{
+        font-size: 30px;
+      }
+      .header .main-btn{
+        padding: 0;
+      }
+      .popular-courses {
+        margin-top: 84px;
+    }
+    .btn-cart{
+        left: 26%;
+    }
+    .counter {
+        width: 80px;
+        height: 80px;
+        border: 3px solid #fff;
+    }
+    .counter .count{
+        font-size: 25px;
+        font-weight: 600;
+    }
+    .counter .caption{
+        font-size: 17px;
+    }
+    .events .left-content{
+        order: 2;
+    }
+    .event{
+        position: relative;
+        padding-top: 0 !important;
+    }
+    .events .date{
+        position: absolute;
+        top: 10px;
+        left: 10px;
+        border: none;
+        background-color: #fff;
+        padding: 5px 7px !important;
+    }
+    .event .date .day{
+        font-size: 35px;
+    }
+    .event .date .month{
+        font-size: 15px;
+    }
+    .event-info{
+        padding: 10px 0 !important;
+    }
+    .owl-nav span{
+        font-size: 25px;
+        border: 1px solid #333;
+        /* padding: 0 10px; */
+    }
+    .owl-nav .owl-prev{
+        margin-right: 15px;
+        right: 25px
+    }
+    .owl-nav .owl-next{
+        right: 0;
+    }
+    .latest-news .owl-nav {
+        text-align: right;
+        margin-top: -523px;
+    }
+    .testimonials .owl-item.active.center::after{
+        top: -19px;
+        right: -16px;
+    }
+    .message{
+        width: 100% !important;
+    }
+    .news-info p{
+        left: 29%;
+    }
+    .testimonials p {
+        margin-right: 14px;
+    }
+}
+
+@media (max-width:650px) {
+    .circle{
+        left: 40.1%;
+        width: 80px !important;
+        height: 80px;
+    }
+
+     .testimonials .owl-item.active.center::after{
+        left: 63%;
+    }
+    .testimonials .owl-item.active.center .testimonial img{
+        margin: auto;
+    }
+    .owl-item.active.center .testimonial .overlay{
+        margin: auto;
+    }
+    .message button{
+        padding: 7px;
+    }
+    .register-page .w-50{
+        width: 88% !important;
+       }
+       .qustion{
+        font-size: 14px;
+       }
+}
